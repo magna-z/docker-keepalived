@@ -9,4 +9,4 @@ DockerHub image: <https://hub.docker.com/r/magnaz/keepalived> ![](https://img.sh
 
 ## Available tags:
 #### 2.2
-- **v2.2.7**, **2.2.7**, **latest** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.2.7)
+- **v2.2.7**, **2.2.7**, **latest** ![](https://img.shields.io/docker/image-size/magnaz/keepalived/v2.2.7)
